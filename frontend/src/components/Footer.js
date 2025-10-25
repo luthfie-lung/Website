@@ -22,8 +22,8 @@ const Footer = () => {
           {/* Brand */}
           <div>
             <h3 className="text-2xl font-bold text-red-600 mb-4">
-              <span className="font-black">ARKAN</span>
-              <span className="text-white ml-1">SHADOW</span>
+              <span className="font-black">Luthfie</span>
+              <span className="text-white ml-1">Lung</span>
             </h3>
             <p className="text-gray-400 text-sm leading-relaxed">
               {language === 'id'
