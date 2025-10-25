@@ -29,8 +29,8 @@ const Header = () => {
         <div className="flex items-center justify-between">
           {/* Logo */}
           <Link to="/" className="text-2xl font-bold tracking-wider text-red-600 hover:text-red-500 transition-colors">
-            <span className="font-black">ARKAN</span>
-            <span className="text-white ml-1">SHADOW</span>
+            <span className="font-black">LUTHFIE</span>
+            <span className="text-white ml-1">LUNG</span>
           </Link>
 
           {/* Desktop Navigation */}
