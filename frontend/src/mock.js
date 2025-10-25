@@ -3,13 +3,13 @@
 export const portfolioData = {
   id: {
     hero: {
-      name: "ARKAN SHADOW",
+      name: "Luthfie Lung",
       title: "Pengembang Web Full Stack",
-      subtitle: "Menciptakan pengalaman digital yang gelap dan kuat"
+      subtitle: "Antara Aku, Kamu, dan Website"
     },
     about: {
       title: "Tentang Saya",
-      description: "Seorang pengembang web dengan passion untuk menciptakan aplikasi yang kuat dan elegan. Terinspirasi oleh estetika gothic dan kekuatan metal, saya menghadirkan solusi digital yang unik dan berkesan.",
+      description: "Seorang pengembang web dengan passion untuk menciptakan aplikasi yang kuat dan elegan. Terinspirasi oleh estetika gothic dan darkside, senang Anda berkunjung",
       stats: [
         { label: "Tahun Pengalaman", value: "5+" },
         { label: "Proyek Selesai", value: "50+" },
@@ -100,7 +100,7 @@ export const portfolioData = {
           content: "Dark design bukan hanya tentang warna hitam. Ini tentang menciptakan kontras yang kuat, hierarki visual yang jelas, dan pengalaman yang immersive. Dalam artikel ini, saya membahas prinsip-prinsip utama dark design dan bagaimana menerapkannya dalam proyek web modern.",
           date: "2025-01-15",
           tags: ["Design", "UI/UX", "Dark Theme"],
-          author: "Arkan Shadow",
+          author: "Luthfie Lung",
           readTime: "5 menit"
         },
         {
@@ -110,7 +110,7 @@ export const portfolioData = {
           content: "FastAPI menawarkan performa tinggi, validasi otomatis, dan dokumentasi interaktif out-of-the-box. Artikel ini membahas setup project, routing, validation dengan Pydantic, dan best practices.",
           date: "2025-01-10",
           tags: ["Python", "FastAPI", "Backend"],
-          author: "Arkan Shadow",
+          author: "Luthfie Lung",
           readTime: "8 menit"
         },
         {
@@ -120,7 +120,7 @@ export const portfolioData = {
           content: "Hooks merevolusi cara kita menulis komponen React. useState memungkinkan functional components memiliki state, sementara useEffect menangani side effects. Mari kita pahami dengan contoh praktis.",
           date: "2025-01-05",
           tags: ["React", "JavaScript", "Frontend"],
-          author: "Arkan Shadow",
+          author: "Luthfie Lung",
           readTime: "6 menit"
         },
         {
@@ -130,7 +130,7 @@ export const portfolioData = {
           content: "Performa web adalah kunci user experience. Dari lazy loading, code splitting, hingga optimasi gambar - semua berperan penting. Artikel ini membahas teknik praktis yang bisa langsung diterapkan.",
           date: "2024-12-28",
           tags: ["Performance", "Web Development", "Optimization"],
-          author: "Arkan Shadow",
+          author: "Luthfie Lung",
           readTime: "7 menit"
         },
         {
@@ -140,7 +140,7 @@ export const portfolioData = {
           content: "Memilih database yang tepat adalah keputusan arsitektural penting. MongoDB menawarkan fleksibilitas schema, PostgreSQL memberikan ACID compliance kuat. Mari kita analisis use case masing-masing.",
           date: "2024-12-20",
           tags: ["Database", "MongoDB", "PostgreSQL"],
-          author: "Arkan Shadow",
+          author: "Luthfie Lung",
           readTime: "10 menit"
         },
         {
@@ -150,7 +150,7 @@ export const portfolioData = {
           content: "JWT adalah standar industri untuk authentication. Namun, implementasi yang salah bisa menimbulkan celah keamanan. Artikel ini membahas best practices: refresh tokens, secure storage, dan token expiration.",
           date: "2024-12-15",
           tags: ["Security", "JWT", "Authentication"],
-          author: "Arkan Shadow",
+          author: "Luthfie Lung",
           readTime: "9 menit"
         }
       ]
@@ -158,7 +158,7 @@ export const portfolioData = {
     contact: {
       title: "Hubungi Saya",
       description: "Tertarik untuk berkolaborasi atau punya proyek menarik? Mari kita wujudkan!",
-      email: "arkan.shadow@darkweb.dev",
+      email: "luthfielung@gmail.com",
       socials: [
         { name: "GitHub", url: "https://github.com", icon: "Github" },
         { name: "LinkedIn", url: "https://linkedin.com", icon: "Linkedin" },
@@ -169,7 +169,7 @@ export const portfolioData = {
   },
   en: {
     hero: {
-      name: "ARKAN SHADOW",
+      name: "Luthfie Lung",
       title: "Full Stack Web Developer",
       subtitle: "Crafting dark and powerful digital experiences"
     },
@@ -266,7 +266,7 @@ export const portfolioData = {
           content: "Dark design is not just about black colors. It's about creating strong contrast, clear visual hierarchy, and immersive experiences. In this article, I discuss the main principles of dark design and how to apply them in modern web projects.",
           date: "2025-01-15",
           tags: ["Design", "UI/UX", "Dark Theme"],
-          author: "Arkan Shadow",
+          author: "Luthfie Lung",
           readTime: "5 min read"
         },
         {
@@ -276,7 +276,7 @@ export const portfolioData = {
           content: "FastAPI offers high performance, automatic validation, and interactive documentation out-of-the-box. This article covers project setup, routing, validation with Pydantic, and best practices.",
           date: "2025-01-10",
           tags: ["Python", "FastAPI", "Backend"],
-          author: "Arkan Shadow",
+          author: "Luthfie Lung",
           readTime: "8 min read"
         },
         {
@@ -286,7 +286,7 @@ export const portfolioData = {
           content: "Hooks revolutionized how we write React components. useState allows functional components to have state, while useEffect handles side effects. Let's understand with practical examples.",
           date: "2025-01-05",
           tags: ["React", "JavaScript", "Frontend"],
-          author: "Arkan Shadow",
+          author: "Luthfie Lung",
           readTime: "6 min read"
         },
         {
@@ -296,7 +296,7 @@ export const portfolioData = {
           content: "Web performance is key to user experience. From lazy loading, code splitting, to image optimization - everything plays an important role. This article discusses practical techniques you can apply immediately.",
           date: "2024-12-28",
           tags: ["Performance", "Web Development", "Optimization"],
-          author: "Arkan Shadow",
+          author: "Luthfie Lung",
           readTime: "7 min read"
         },
         {
@@ -306,7 +306,7 @@ export const portfolioData = {
           content: "Choosing the right database is an important architectural decision. MongoDB offers schema flexibility, PostgreSQL provides strong ACID compliance. Let's analyze each use case.",
           date: "2024-12-20",
           tags: ["Database", "MongoDB", "PostgreSQL"],
-          author: "Arkan Shadow",
+          author: "Luthfie Lung",
           readTime: "10 min read"
         },
         {
@@ -316,7 +316,7 @@ export const portfolioData = {
           content: "JWT is the industry standard for authentication. However, incorrect implementation can create security vulnerabilities. This article discusses best practices: refresh tokens, secure storage, and token expiration.",
           date: "2024-12-15",
           tags: ["Security", "JWT", "Authentication"],
-          author: "Arkan Shadow",
+          author: "Luthfie Lung",
           readTime: "9 min read"
         }
       ]
@@ -324,7 +324,7 @@ export const portfolioData = {
     contact: {
       title: "Contact Me",
       description: "Interested in collaboration or have an exciting project? Let's make it happen!",
-      email: "arkan.shadow@darkweb.dev",
+      email: "luthfielung@gmail.com",
       socials: [
         { name: "GitHub", url: "https://github.com", icon: "Github" },
         { name: "LinkedIn", url: "https://linkedin.com", icon: "Linkedin" },
@@ -336,8 +336,8 @@ export const portfolioData = {
 };
 
 export const mockUser = {
-  email: "admin@darkweb.dev",
+  email: "calungyourbae@gmail.com",
   password: "admin123",
-  name: "Arkan Shadow",
+  name: "Luthfie Lung",
   role: "admin"
 };
